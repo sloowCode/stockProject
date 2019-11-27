@@ -1,0 +1,106 @@
+.dropdown .dropdown-menu .admin{
+	width: 300px;
+}
+
+.head{
+	background-image: url(../img/old-paper-2404963.jpg);
+	
+}
+
+
+
+
+
+.navbar-semi-light .navbar-header{
+	background-image: url(../img/old-paper-2404963.jpg);
+
+}
+
+
+.navbar-semi-light .navbar-header .brand-text {
+    color: white;
+}
+
+.card .card-title {
+    font-size: 2.1rem;
+    font-weight: 500;
+    letter-spacing: .05rem;
+    text-transform: uppercase;
+    color: black;
+}
+h4 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.btn-danger{
+	color: black;
+	font-size: 15px;
+	font-weight: ;
+}
+form .form-section {
+    line-height: 3rem;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+
+ }
+ form .form-section >span{
+ 	font-size: 18px;
+ 	font-weight: normal;
+ }
+
+
+.main-menu.menu-dark{
+	background-color: black;
+}
+
+.main-menu.menu-dark .navigation > li{
+	background-color: black;
+}
+.header-navbar .navbar-container{
+	background-color: black;
+}
+.footer.navbar-border{
+	background-color: black;
+}
+.content-footer{
+	margin-top: 3rem;
+	margin-bottom: -1rem;
+}
+
+.add-new{
+	float: right;
+	margin: 0.3rem;
+}
+
+#tab1{
+	background-color: beige;
+}
+.card{
+	background-color: #f5f7fa;
+}
+.tabhead{
+	background-color: #f5f7fa;
+}
+form .totalforms{
+	width: 200px;
+	border-color: brown;
+	
+}
+.table th{
+	color: brown;
+	font-weight: bolder;
+}
+
+.table tbody tr td:first-child{
+	color: black;
+	font-size:17px ;
+}
+form .total{
+	color: grey;
+	font-weight: bold;
+	padding-left: 2rem;
+}
